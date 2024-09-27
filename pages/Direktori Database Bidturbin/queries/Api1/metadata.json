@@ -11,7 +11,7 @@
           "data": "FETCH_MANY"
         },
         "entityType": {
-          "data": "ROWS"
+          "data": "SPREADSHEET"
         },
         "pagination": {
           "data": {
@@ -50,6 +50,7 @@
       "name": "Proto-DB",
       "pluginId": "google-sheets-plugin"
     },
+    "dynamicBindingPathList": [],
     "executeOnLoad": false,
     "name": "Api1",
     "pageId": "Direktori Database Bidturbin",

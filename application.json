@@ -1,5 +1,8 @@
 {
   "appIsExample": false,
+  "appLayout": {
+    "type": "DESKTOP"
+  },
   "applicationVersion": 2,
   "collapseInvisibleWidgets": true,
   "color": "#FFDEDE",
@@ -8,6 +11,13 @@
     {
       "id": "Direktori Database Bidturbin",
       "isDefault": true
+    },
+    {
+      "id": "DummyDB",
+      "isDefault": false
     }
-  ]
+  ],
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  }
 }
